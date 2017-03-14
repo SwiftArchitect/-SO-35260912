@@ -6,7 +6,7 @@ Notice the `...` even though the `UILabel` is vertically justified on 2 lines
 ---
 
 ### Stack Overflow Question 35260912
-Xcode project & source code related to [Invoke `reloadData` prior `setNeedsLayout`](http://stackoverflow.com/a/35261287/218152) anwser.
+Xcode project & source code related to [Invoke `reloadData` prior `setNeedsLayout`](http://stackoverflow.com/a/35261287/218152) answer.
 
 ---
 
